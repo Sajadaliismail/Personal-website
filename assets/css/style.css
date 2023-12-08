@@ -311,7 +311,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/sajad.JPG") top right;
+  background: url("../img/sajad.jpg") top right;
     background-size: cover;
     position: relative;
     background-attachment: fixed;
@@ -385,7 +385,7 @@ h6 {
 }
 @media (min-width: 400px) {
   #hero {
-    background: url("../img/sajad.JPG") top right;
+    background: url("../img/sajad.jpg") top right;
     background-size: cover;
     position: relative;
     background-attachment: fixed;
